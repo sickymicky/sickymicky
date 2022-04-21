@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sickymicky
-- 👀 I’m interested in C, C++ and Python, mainly pygame and Linux/Hackning
+- 👀 I’m interested in C, C++ and Python, mainly pygame and Linux/Hacking
 - 🌱 I’m currently learning Bacic C and Pygame
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
